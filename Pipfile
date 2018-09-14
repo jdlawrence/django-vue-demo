@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 matplotlib = "*"
 numpy = "*"
+"psycopg2" = "*"
+django = "*"
 
 [dev-packages]
 
